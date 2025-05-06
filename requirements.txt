@@ -1,0 +1,14 @@
+
+notebook 
+jupyterlab 
+ipykernel 
+ipywidgets 
+pandas 
+numpy 
+matplotlib 
+seaborn 
+scikit-learn
+streamlit 
+openpyxl 
+xlrd 
+xlsxwriter
